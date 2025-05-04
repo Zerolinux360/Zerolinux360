@@ -9,6 +9,7 @@
 
 > "I am ZeroLinux. I don't code... I conjure chaos." 👿
 "Summon the beast, and face the flames." 🔥
+"Kneel before the Demon King or be consumed by fire!" ☠️
 
 
 
@@ -20,6 +21,8 @@
 ⚡ Wielding dark powers with ⚡ Rust, Bash, Arch Sorcery
 
 🩸 Whispering ancient curses in Linux, Kernel Tweaks, CyberSec
+
+👁️ Evoking Demon Eyes with Vim Necromancy
 
 📫 Summon me: zerolinux@darkmail.com
 
@@ -75,7 +78,7 @@
 <p align="center">
   <img src="https://i.ibb.co/QX5Vhbv/demon-eyes.gif" width="300px" />
 </p><h3 align="center">☠️ Enter at your own risk... ☠️</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑;🔥+Bow+to+the+Hellfire+🔥;👁️+Souls+Shall+Burn+👁️" />
 </p>
 ---
 
@@ -84,10 +87,16 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-Dark%20Mage-%23b30000?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-Chaos%20Forged-%23b30000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-Terminal%20Necromancer-%23b30000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p><p align="center">
+</p>
+---
+
+<h3 align="center">🔥 Dark Seals 🔥</h3>
+<p align="center">
   <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="400" />
 </p><p align="center">
   <img src="https://media.tenor.com/MuYZZ1HZk4AAAAAC/demon-dark.gif" width="500" />
+</p><p align="center">
+  <img src="https://media.tenor.com/YT1UN_6PnKcAAAAi/demon-circle.gif" width="300" />
 </p>
 ---
 
