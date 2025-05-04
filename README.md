@@ -1,37 +1,10 @@
-<!-- 👿🔥💻 ZERO LINUX - DEMON KING MODE (HELLFIRE V2) 💻🔥👿 --><h1 align="center">
-  <img src="https://i.ibb.co/yf1mR2K/demon-logo.gif" width="200px">
-</h1><h1 align="center" style="color:red;">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1><p align="center">
+
+
+<h1 align="center">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos;Welcome+to+the+Underworld" />
 </p><p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="500" />
-</p><!-- 🔊 Demon Sound --><p align="center">
-  <audio autoplay loop>
-    <source src="https://www.myinstants.com/media/sounds/darkness-and-fear.mp3" type="audio/mpeg">
-  </audio>
-</p><!-- 👁️‍🗨️ Shaking + Glow + Curse Effect --><style>
-  body {
-    animation: shake 0.5s infinite, glow 2s infinite alternate;
-    background: black;
-    color: red;
-  }
-  @keyframes shake {
-    0% { transform: translate(1px, 1px) rotate(0deg); }
-    10% { transform: translate(-1px, -2px) rotate(-1deg); }
-    20% { transform: translate(-3px, 0px) rotate(1deg); }
-    30% { transform: translate(3px, 2px) rotate(0deg); }
-    40% { transform: translate(1px, -1px) rotate(1deg); }
-    50% { transform: translate(-1px, 2px) rotate(-1deg); }
-    60% { transform: translate(-3px, 1px) rotate(0deg); }
-    70% { transform: translate(3px, 1px) rotate(-1deg); }
-    80% { transform: translate(-1px, -1px) rotate(1deg); }
-    90% { transform: translate(1px, 2px) rotate(0deg); }
-    100% { transform: translate(1px, -2px) rotate(-1deg); }
-  }
-  @keyframes glow {
-    from { text-shadow: 0 0 10px red, 0 0 20px darkred; }
-    to { text-shadow: 0 0 20px red, 0 0 40px crimson; }
-  }
-</style>
+</p>
 ---
 
 > "I am ZeroLinux. I don't code... I conjure chaos." 👿
@@ -98,13 +71,26 @@
 </p>
 ---
 
+<h3 align="center">👁️ Demon Eyes 👁️</h3>
 <p align="center">
-  <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="400" />
+  <img src="https://i.ibb.co/QX5Vhbv/demon-eyes.gif" width="300px" />
+</p><h3 align="center">☠️ Enter at your own risk... ☠️</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑" />
 </p>
 ---
 
-<!-- 👁️‍🗨️ Red Eyes Effect --><p align="center">
-  <img src="https://i.ibb.co/QX5Vhbv/demon-eyes.gif" width="300px" />
-</p><h3 align="center" style="color:red;">☠️ Enter at your own risk... ☠️</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑" />
+<h3 align="center">🩸 My Dark Badges 🩸</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-Dark%20Mage-%23b30000?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-Chaos%20Forged-%23b30000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-Terminal%20Necromancer-%23b30000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p><p align="center">
+  <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="400" />
+</p><p align="center">
+  <img src="https://media.tenor.com/MuYZZ1HZk4AAAAAC/demon-dark.gif" width="500" />
+</p>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=fire&color=auto&height=150&section=footer&text=ZERO%20LINUX%20RULES%20THE%20HELLFIRE!&fontSize=20&animation=twinkling"/>
 </p>
