@@ -1,18 +1,18 @@
+<!-- خلفية ماتريكس + نار -->
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="100%" />
+</p>
+
 <h1 align="center">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1>
 
-<!-- MATRIX BACKGROUND -->
+<!-- نص متحرك لهب -->
 <p align="center">
-  <img src="https://i.gifer.com/7pl.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+Underworld;Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos" />
 </p>
 
-<!-- FLAMING TYPING -->
+<!-- شعلة نار تحت -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos;Welcome+to+the+Underworld" />
-</p>
-
-<!-- FLAMES -->
-<p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="500" />
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="700" />
 </p>
 
 ---
@@ -31,18 +31,19 @@
 
 ---
 
-<!-- 🔥 HELL GATE FLAMES -->
 <h3 align="center">🔥 Enter The Hell Gate 🔥</h3>
 <p align="center">
-  <img src="https://media.tenor.com/Hq8d2g1mV7sAAAAC/hell-gate.gif" width="600px" />
+  <a href="https://github.com/ZeroLinux/YourMainProject" target="_blank">
+    <img src="https://img.shields.io/badge/Summon%20the%20Demon-%23b30000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <h3 align="center">🩸 Dare to Connect 🩸</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/zerolinux"><img src="https://img.shields.io/badge/LinkedIn-%23b30000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/zerolinux"><img src="https://img.shields.io/badge/Twitter-%23b30000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zerolinux" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23b30000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/zerolinux" target="blank"><img src="https://img.shields.io/badge/Twitter-%23b30000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:zerolinux@darkmail.com"><img src="https://img.shields.io/badge/Gmail-%23b30000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -54,15 +55,6 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,rust,python,git,github,vim&theme=dark" />
-</p>
-
----
-
-<h3 align="center">🔥 Summon The Beast 🔥</h3>
-<p align="center">
-  <a href="https://github.com/ZeroLinux/YourMainProject">
-    <img src="https://img.shields.io/badge/Summon%20the%20Beast-%23b30000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -104,10 +96,20 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-Dark%20Mage-%23b30000?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-Chaos%20Forged-%23b30000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-Terminal%20Necromancer-%23b30000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash%20Necromancer-🔥%20Certified-%23b30000?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
+
+<!-- شعلة الجحيم ختام -->
 <p align="center">
-  <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="400" />
+  <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="600" />
 </p>
+
+<!-- العين الشيطانية -->
 <p align="center">
-  <img src="https://media.tenor.com/MuYZZ1HZk4AAAAAC/demon-dark.gif" width="500" />
+  <img src="https://media.tenor.com/XYg_qn9AoyIAAAAd/eye-look.gif" width="200" />
+</p>
+
+<!-- خلفية ماتريكس نهاية -->
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="100%" />
 </p>
