@@ -1,105 +1,108 @@
+<!-- ZeroLinux: Demon Overlord Mode 👿🔥💻 --><h1 align="center" style="color: #ff0000; text-shadow: 0 0 10px #ff0000, 0 0 20px #8b0000; animation: pulse 2s infinite;">
+  ⚡ ZERO LINUX - THE DEMON KING 👑🔥
+</h1><p align="center">
+  <img src="https://raw.githubusercontent.com/roshanconnor/static-hosted-assets/main/circle-dark-magic.gif" width="300px" />
+</p><p align="center" style="color: red; font-size: 20px;">
+  Souls Will
+</p><blockquote>
+  <p align="center" style="color:white;">
+    "I am ZeroLinux. I don't code... I conjure chaos." 👿<br>
+    "Summon the beast, and face the flames." 🔥
+  </p>
+</blockquote>
+---
+
+🔥 Forging Dark Linux Scripts & Forbidden Code
+
+⚡ Rust, Bash, Arch Sorcery
+
+👁️‍ Whispering ancient curses in Linux, Kernel Tweaks, CyberSec
+
+📧 Summon me: zerolinux@darkmail.com
+
+📜 Dark Scrolls: zerolinux.xyz
 
 
-<h1 align="center">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos;Welcome+to+the+Underworld" />
-</p><p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="500" />
+
+---
+
+🔥 Dark Arsenal ⚔️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,rust,python,git,vim&theme=dark" />
 </p>
 ---
 
-> "I am ZeroLinux. I don't code... I conjure chaos." 👿
-"Summon the beast, and face the flames." 🔥
-"Kneel before the Demon King or be consumed by fire!" ☠️
+🔥 Summon The Beast 🔥
 
-
-
-
----
-
-🔥 Forging 🔥 Dark Linux Scripts & Forbidden Code
-
-⚡ Wielding dark powers with ⚡ Rust, Bash, Arch Sorcery
-
-🩸 Whispering ancient curses in Linux, Kernel Tweaks, CyberSec
-
-👁️ Evoking Demon Eyes with Vim Necromancy
-
-📫 Summon me: zerolinux@darkmail.com
-
-🚀 My Dark Scrolls: https://zerolinux.xyz
-
-
-
----
-
-<h3 align="center">🩸 Dare to Connect 🩸</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/zerolinux" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23b30000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/zerolinux" target="blank"><img src="https://img.shields.io/badge/Twitter-%23b30000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:zerolinux@darkmail.com"><img src="https://img.shields.io/badge/Gmail-%23b30000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
----
-
-<h3 align="center">⚔️ Dark Arsenal ⚔️</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Arch+Linux+Slayer;Bash+Necromancer;Rust+Warlock;Python+Dark+Lord;System+Tweaker;GitHub+Shadow+Master" />
-</p><p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,rust,python,git,github,vim&theme=dark" />
-</p>
----
-
-<h3 align="center">🔥 Summon The Beast 🔥</h3>
-<p align="center">
-  <a href="https://github.com/ZeroLinux/YourMainProject" target="_blank">
-    <img src="https://img.shields.io/badge/Summon%20the%20Beast-%23b30000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ZeroLinux">
+    <img src="https://img.shields.io/badge/SUMMON%20THE%20BEAST-red?style=for-the-badge&logo=github">
   </a>
 </p>
 ---
 
-<h3 align="center">📊 Stats From the Underworld 📊</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroLinux&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZeroLinux&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroLinux&layout=compact&theme=dark&title_color=ff0000" />
-</p>
----
+📊 Stats From the Underworld 📊
 
-<h3 align="center">🔥 Souls Stolen 🔥</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeroLinux&label=Souls%20stolen&color=ff0000&style=plastic" alt="ZeroLinux" />
-</p>
----
-
-<h3 align="center">👁️ Demon Eyes 👁️</h3>
-<p align="center">
-  <img src="https://i.ibb.co/QX5Vhbv/demon-eyes.gif" width="300px" />
-</p><h3 align="center">☠️ Enter at your own risk... ☠️</h3><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑;🔥+Bow+to+the+Hellfire+🔥;👁️+Souls+Shall+Burn+👁️" />
-</p>
----
-
-<h3 align="center">🩸 My Dark Badges 🩸</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-Dark%20Mage-%23b30000?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-Chaos%20Forged-%23b30000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Terminal%20Necromancer-%23b30000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
----
-
-<h3 align="center">🔥 Dark Seals 🔥</h3>
-<p align="center">
-  <img src="https://media.tenor.com/2z2K7A6DLgAAAAAC/hell-fire-fire.gif" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroLinux&show_icons=true&theme=tokyonight&count_private=true" />
 </p><p align="center">
-  <img src="https://media.tenor.com/MuYZZ1HZk4AAAAAC/demon-dark.gif" width="500" />
-</p><p align="center">
-  <img src="https://media.tenor.com/YT1UN_6PnKcAAAAi/demon-circle.gif" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroLinux&layout=compact&theme=tokyonight" />
 </p>
 ---
 
+🔥 Souls Stolen 🔥
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=fire&color=auto&height=150&section=footer&text=ZERO%20LINUX%20RULES%20THE%20HELLFIRE!&fontSize=20&animation=twinkling"/>
+  <img src="https://komarev.com/ghpvc/?username=ZeroLinux&color=red" />
+</p>👁️ Demon Eyes 👁️
+
+
+---
+
+<h2 align="center" style="color:red;">
+  ☠️ Enter at your own risk... ☠️
+</h2><p align="center" style="color:#ff0000; font-size: 18px;">
+  By ZeroLinux 👿
+</p>
+---
+
+🔥 My Dark Badges 🔥
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-darkblue?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/DARK%20MAGE-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RUST-chaos?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/BASH-terminal?style=for-the-badge&logo=gnubash&logoColor=white">
+</p>
+---
+
+<!-- Dark Smoke & Fire Animation --><style>
+@keyframes pulse {
+  0% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+  50% { text-shadow: 0 0 20px #ff4500, 0 0 30px #ff0000; }
+  100% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+}
+
+@keyframes smoke {
+  0% { transform: translateY(0) scale(1); opacity: 0.8; }
+  50% { transform: translateY(-20px) scale(1.1); opacity: 0.4; }
+  100% { transform: translateY(-40px) scale(1.2); opacity: 0; }
+}
+
+.smoke {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(#000, transparent);
+  border-radius: 50%;
+  animation: smoke 3s infinite;
+}
+</style><div class="smoke"></div>
+<div class="smoke" style="animation-delay: 1s; left: 40%;"></div>
+<div class="smoke" style="animation-delay: 2s; left: 60%;"></div><!-- Dark Seals --><h3 align="center">🔥 Dark Seals 🔥</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roshanconnor/static-hosted-assets/main/dark-seal.gif" width="200px">
 </p>
