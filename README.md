@@ -1,10 +1,37 @@
-<!-- 👿🔥💻 ZERO LINUX - DEMON KING MODE (ULTIMATE) 💻🔥👿 --><h1 align="center">
+<!-- 👿🔥💻 ZERO LINUX - DEMON KING MODE (HELLFIRE V2) 💻🔥👿 --><h1 align="center">
   <img src="https://i.ibb.co/yf1mR2K/demon-logo.gif" width="200px">
 </h1><h1 align="center" style="color:red;">⚡️ ZERO LINUX - THE DEMON KING 👑🔥</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Souls+Will+Be+Stolen...;Summon+the+Beast+if+You+Dare...;Burn+the+Code+and+Embrace+Chaos;Welcome+to+the+Underworld" />
 </p><p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/fire-burning.gif" width="500" />
-</p>
+</p><!-- 🔊 Demon Sound --><p align="center">
+  <audio autoplay loop>
+    <source src="https://www.myinstants.com/media/sounds/darkness-and-fear.mp3" type="audio/mpeg">
+  </audio>
+</p><!-- 👁️‍🗨️ Shaking + Glow + Curse Effect --><style>
+  body {
+    animation: shake 0.5s infinite, glow 2s infinite alternate;
+    background: black;
+    color: red;
+  }
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+  @keyframes glow {
+    from { text-shadow: 0 0 10px red, 0 0 20px darkred; }
+    to { text-shadow: 0 0 20px red, 0 0 40px crimson; }
+  }
+</style>
 ---
 
 > "I am ZeroLinux. I don't code... I conjure chaos." 👿
@@ -76,4 +103,8 @@
 </p>
 ---
 
-<h3 align="center" style="color:red;">☠️ Enter at your own risk... ☠️</h3>
+<!-- 👁️‍🗨️ Red Eyes Effect --><p align="center">
+  <img src="https://i.ibb.co/QX5Vhbv/demon-eyes.gif" width="300px" />
+</p><h3 align="center" style="color:red;">☠️ Enter at your own risk... ☠️</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=By+ZeroLinux+👿;Code+is+Chaos+🔥;Fear+the+Demon+King+👑" />
+</p>
