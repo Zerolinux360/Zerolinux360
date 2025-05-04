@@ -1,16 +1,13 @@
-## Hi there 👋
+# 😈👑 BeastPhisher v2 - The Royal Phishing Beast 👑😈
 
-<!--
-**Zerolinux360/Zerolinux360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![BeastPhisher Logo](images/beastphisher_logo.png)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.0-blueviolet?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Linux-Supported-success?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Termux-Ready-brightgreen?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Windows-Compatible-blue?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **⚠️ للاستخدام القانوني والتجريبي فقط. يمنع استخدام الأداة لأغراض ضارة.**
